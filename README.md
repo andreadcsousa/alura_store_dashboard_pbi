@@ -22,7 +22,7 @@
 
 # :package: Recursos
 
-### JSON
+### MySQL
 <img src="./files/logo mysql.png" width="50%">
 
 # :art: Layout PC
